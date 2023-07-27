@@ -3,7 +3,7 @@ manage and control industrial nodes like actuators and control systems via IOT A
 
 <!-- <h3><a href="[https://youtu.be/BD600ca_Qtw](https://youtu.be/kqubm8_RC5Y)">YouTube Video: IIOT App | 2 node manager with B4A </a></h3> -->
   <ul>
-        <li><a href="https://youtu.be/kqubm8_RC5Y">YouTube Video: IIOT App | 2 node manager with B4A</a></li>
+        <li><a href="https://www.youtube.com/watch?v=kqubm8_RC5Y">YouTube Video: IIOT App | 2 node manager with B4A</a></li>
   </ul> 
     <ul>
         <li><a href="https://github.com/SmFaraji/IIOT_Node_Manager/blob/main/IIOT_Project.pdf">Read the documentation</a></li>
