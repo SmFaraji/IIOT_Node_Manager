@@ -1,3 +1,11 @@
+/***
+this is first node code that recieve commands and send sensor data via udp connection with central node(B4A App)
+#telegram channel     -> t.me/EngineeringLab
+#aparat channel       -> www.aparat.com/EngineeringLab
+#youtube channel      -> https://www.youtube.com/@sm_faraji
+#GitHub               -> https://github.com/SmFaraji
+
+***/
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
