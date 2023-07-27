@@ -1,3 +1,12 @@
+/***
+this is second node code that recieve PIDs data from App and Aplly it to system
+#telegram channel     -> t.me/EngineeringLab
+#aparat channel       -> www.aparat.com/EngineeringLab
+#youtube channel      -> https://www.youtube.com/@sm_faraji
+#GitHub               -> https://github.com/SmFaraji
+
+***/
+
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
